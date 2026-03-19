@@ -11,7 +11,7 @@ A lightweight, concurrent Command & Control (C2) framework built with **Go** Thi
 - **Agent (Go):** A cross-platform binary that polls the server for tasks and executes them via the system shell (`cmd` or `sh`).
 - **Server (Go + Gin):** A REST API that manages the task queue, stores agent heartbeats, and serves the frontend.
 - **Dashboard (React + Vite):** A professional terminal-style UI built with Lovable for monitoring agents and issuing commands.
-
+<img width="654" height="307" alt="Image" src="https://github.com/user-attachments/assets/a2474d8b-da2d-4792-b43e-f5912480f5d9" />
 ---
 
 ## 🚀 Getting Started
