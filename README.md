@@ -1,8 +1,8 @@
 # Go-C2 Framework 🚀
 
-A lightweight, concurrent Command & Control (C2) framework built with **Go** and **React (Lovable)**. This project demonstrates how modern malware/agents communicate with a central server using HTTP beaconing.
+A lightweight, concurrent Command & Control (C2) framework built with **Go** This project demonstrates how modern malware/agents communicate with a central server using HTTP beaconing.
 
-> **⚠️ LEGAL DISCLAIMER:** This tool is for **educational and ethical hacking purposes only**. Only run the agent on systems you own or have explicit permission to test. Unauthorized access to computer systems is illegal.
+
 
 ---
 
